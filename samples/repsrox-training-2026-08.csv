@@ -1,0 +1,142 @@
+Date,Session,Duration,Exercise,Set,Amount,Unit,Weight kg
+2026-08-03,Lower push,50:36,Back squat,1,5,reps,122.5
+2026-08-03,Lower push,50:36,Back squat,2,5,reps,122.5
+2026-08-03,Lower push,50:36,Back squat,3,5,reps,125
+2026-08-03,Lower push,50:36,Romanian deadlift,1,8,reps,102.5
+2026-08-03,Lower push,50:36,Romanian deadlift,2,8,reps,102.5
+2026-08-03,Lower push,50:36,Romanian deadlift,3,8,reps,105
+2026-08-03,Lower push,50:36,Sled push,1,25,m,162.5
+2026-08-03,Lower push,50:36,Sled push,2,25,m,162.5
+2026-08-03,Lower push,50:36,Sled push,3,25,m,162.5
+2026-08-03,Lower push,50:36,Sled push,4,25,m,162.5
+2026-08-03,Lower push,50:36,Walking lunge,1,12,reps,20
+2026-08-03,Lower push,50:36,Walking lunge,2,12,reps,20
+2026-08-03,Lower push,50:36,Walking lunge,3,12,reps,20
+2026-08-05,Upper pull,50:06,Pull-up,1,8,reps,
+2026-08-05,Upper pull,50:06,Pull-up,2,8,reps,
+2026-08-05,Upper pull,50:06,Pull-up,3,8,reps,
+2026-08-05,Upper pull,50:06,Pull-up,4,8,reps,
+2026-08-05,Upper pull,50:06,Bent-over row,1,8,reps,82.5
+2026-08-05,Upper pull,50:06,Bent-over row,2,8,reps,82.5
+2026-08-05,Upper pull,50:06,Bent-over row,3,7,reps,85
+2026-08-05,Upper pull,50:06,Farmers carry,1,50,m,24
+2026-08-05,Upper pull,50:06,Farmers carry,2,50,m,24
+2026-08-05,Upper pull,50:06,Farmers carry,3,50,m,24
+2026-08-05,Upper pull,50:06,Farmers carry,4,50,m,24
+2026-08-05,Upper pull,50:06,Face pull,1,15,reps,20
+2026-08-05,Upper pull,50:06,Face pull,2,15,reps,20
+2026-08-05,Upper pull,50:06,Face pull,3,15,reps,20
+2026-08-05,Upper pull,50:06,Face pull,4,15,reps,20
+2026-08-07,Upper push,58:53,Bench press,1,5,reps,97.5
+2026-08-07,Upper push,58:53,Bench press,2,5,reps,97.5
+2026-08-07,Upper push,58:53,Bench press,3,4,reps,100
+2026-08-07,Upper push,58:53,Overhead press,1,6,reps,56.25
+2026-08-07,Upper push,58:53,Overhead press,2,6,reps,56.25
+2026-08-07,Upper push,58:53,Overhead press,3,5,reps,57.5
+2026-08-07,Upper push,58:53,Wall balls,1,20,reps,9
+2026-08-07,Upper push,58:53,Wall balls,2,20,reps,9
+2026-08-07,Upper push,58:53,Wall balls,3,19,reps,9
+2026-08-07,Upper push,58:53,Dips,1,10,reps,
+2026-08-07,Upper push,58:53,Dips,2,10,reps,
+2026-08-07,Upper push,58:53,Dips,3,10,reps,
+2026-08-07,Upper push,58:53,Dips,4,10,reps,
+2026-08-12,Upper pull,55:55,Pull-up,1,8,reps,
+2026-08-12,Upper pull,55:55,Pull-up,2,8,reps,
+2026-08-12,Upper pull,55:55,Pull-up,3,8,reps,
+2026-08-12,Upper pull,55:55,Bent-over row,1,8,reps,85
+2026-08-12,Upper pull,55:55,Bent-over row,2,8,reps,85
+2026-08-12,Upper pull,55:55,Bent-over row,3,7,reps,87.5
+2026-08-12,Upper pull,55:55,Farmers carry,1,50,m,24
+2026-08-12,Upper pull,55:55,Farmers carry,2,50,m,24
+2026-08-12,Upper pull,55:55,Farmers carry,3,50,m,24
+2026-08-12,Upper pull,55:55,Farmers carry,4,50,m,24
+2026-08-12,Upper pull,55:55,Face pull,1,15,reps,20
+2026-08-12,Upper pull,55:55,Face pull,2,15,reps,20
+2026-08-12,Upper pull,55:55,Face pull,3,15,reps,20
+2026-08-14,Upper push,48:10,Bench press,1,5,reps,100
+2026-08-14,Upper push,48:10,Bench press,2,5,reps,100
+2026-08-14,Upper push,48:10,Bench press,3,5,reps,100
+2026-08-14,Upper push,48:10,Bench press,4,5,reps,102.5
+2026-08-14,Upper push,48:10,Overhead press,1,6,reps,57.5
+2026-08-14,Upper push,48:10,Overhead press,2,6,reps,57.5
+2026-08-14,Upper push,48:10,Overhead press,3,5,reps,58.75
+2026-08-14,Upper push,48:10,Wall balls,1,20,reps,9
+2026-08-14,Upper push,48:10,Wall balls,2,20,reps,9
+2026-08-14,Upper push,48:10,Wall balls,3,19,reps,9
+2026-08-14,Upper push,48:10,Dips,1,10,reps,
+2026-08-14,Upper push,48:10,Dips,2,10,reps,
+2026-08-14,Upper push,48:10,Dips,3,10,reps,
+2026-08-17,Lower push,59:08,Back squat,1,5,reps,127.5
+2026-08-17,Lower push,59:08,Back squat,2,5,reps,127.5
+2026-08-17,Lower push,59:08,Back squat,3,5,reps,127.5
+2026-08-17,Lower push,59:08,Back squat,4,4,reps,130
+2026-08-17,Lower push,59:08,Romanian deadlift,1,8,reps,107.5
+2026-08-17,Lower push,59:08,Romanian deadlift,2,8,reps,107.5
+2026-08-17,Lower push,59:08,Romanian deadlift,3,8,reps,107.5
+2026-08-17,Lower push,59:08,Romanian deadlift,4,7,reps,110
+2026-08-17,Lower push,59:08,Sled push,1,25,m,167.5
+2026-08-17,Lower push,59:08,Sled push,2,25,m,167.5
+2026-08-17,Lower push,59:08,Sled push,3,25,m,167.5
+2026-08-17,Lower push,59:08,Sled push,4,25,m,167.5
+2026-08-17,Lower push,59:08,Walking lunge,1,12,reps,20
+2026-08-17,Lower push,59:08,Walking lunge,2,12,reps,20
+2026-08-17,Lower push,59:08,Walking lunge,3,12,reps,20
+2026-08-17,Lower push,59:08,Walking lunge,4,12,reps,20
+2026-08-21,Upper push,52:34,Bench press,1,5,reps,102.5
+2026-08-21,Upper push,52:34,Bench press,2,5,reps,102.5
+2026-08-21,Upper push,52:34,Bench press,3,5,reps,102.5
+2026-08-21,Upper push,52:34,Bench press,4,4,reps,105
+2026-08-21,Upper push,52:34,Overhead press,1,6,reps,58.75
+2026-08-21,Upper push,52:34,Overhead press,2,6,reps,58.75
+2026-08-21,Upper push,52:34,Overhead press,3,6,reps,60
+2026-08-21,Upper push,52:34,Wall balls,1,20,reps,9
+2026-08-21,Upper push,52:34,Wall balls,2,20,reps,9
+2026-08-21,Upper push,52:34,Wall balls,3,20,reps,9
+2026-08-21,Upper push,52:34,Wall balls,4,20,reps,9
+2026-08-21,Upper push,52:34,Dips,1,10,reps,
+2026-08-21,Upper push,52:34,Dips,2,10,reps,
+2026-08-21,Upper push,52:34,Dips,3,10,reps,
+2026-08-21,Upper push,52:34,Dips,4,9,reps,
+2026-08-24,Lower push,56:27,Back squat,1,5,reps,130
+2026-08-24,Lower push,56:27,Back squat,2,5,reps,130
+2026-08-24,Lower push,56:27,Back squat,3,4,reps,132.5
+2026-08-24,Lower push,56:27,Romanian deadlift,1,8,reps,110
+2026-08-24,Lower push,56:27,Romanian deadlift,2,8,reps,110
+2026-08-24,Lower push,56:27,Romanian deadlift,3,8,reps,112.5
+2026-08-24,Lower push,56:27,Sled push,1,25,m,170
+2026-08-24,Lower push,56:27,Sled push,2,25,m,170
+2026-08-24,Lower push,56:27,Sled push,3,25,m,170
+2026-08-24,Lower push,56:27,Sled push,4,25,m,170
+2026-08-24,Lower push,56:27,Walking lunge,1,12,reps,20
+2026-08-24,Lower push,56:27,Walking lunge,2,12,reps,20
+2026-08-24,Lower push,56:27,Walking lunge,3,12,reps,20
+2026-08-24,Lower push,56:27,Walking lunge,4,11,reps,20
+2026-08-26,Upper pull,57:07,Pull-up,1,8,reps,
+2026-08-26,Upper pull,57:07,Pull-up,2,8,reps,
+2026-08-26,Upper pull,57:07,Pull-up,3,8,reps,
+2026-08-26,Upper pull,57:07,Pull-up,4,7,reps,
+2026-08-26,Upper pull,57:07,Bent-over row,1,8,reps,90
+2026-08-26,Upper pull,57:07,Bent-over row,2,8,reps,90
+2026-08-26,Upper pull,57:07,Bent-over row,3,8,reps,90
+2026-08-26,Upper pull,57:07,Bent-over row,4,7,reps,92.5
+2026-08-26,Upper pull,57:07,Farmers carry,1,50,m,24
+2026-08-26,Upper pull,57:07,Farmers carry,2,50,m,24
+2026-08-26,Upper pull,57:07,Farmers carry,3,50,m,24
+2026-08-26,Upper pull,57:07,Farmers carry,4,50,m,24
+2026-08-26,Upper pull,57:07,Face pull,1,15,reps,20
+2026-08-26,Upper pull,57:07,Face pull,2,15,reps,20
+2026-08-26,Upper pull,57:07,Face pull,3,15,reps,20
+2026-08-31,Lower push,58:10,Back squat,1,5,reps,132.5
+2026-08-31,Lower push,58:10,Back squat,2,5,reps,132.5
+2026-08-31,Lower push,58:10,Back squat,3,5,reps,135
+2026-08-31,Lower push,58:10,Romanian deadlift,1,8,reps,112.5
+2026-08-31,Lower push,58:10,Romanian deadlift,2,8,reps,112.5
+2026-08-31,Lower push,58:10,Romanian deadlift,3,8,reps,112.5
+2026-08-31,Lower push,58:10,Romanian deadlift,4,7,reps,115
+2026-08-31,Lower push,58:10,Sled push,1,25,m,172.5
+2026-08-31,Lower push,58:10,Sled push,2,25,m,172.5
+2026-08-31,Lower push,58:10,Sled push,3,25,m,172.5
+2026-08-31,Lower push,58:10,Sled push,4,25,m,172.5
+2026-08-31,Lower push,58:10,Walking lunge,1,12,reps,20
+2026-08-31,Lower push,58:10,Walking lunge,2,12,reps,20
+2026-08-31,Lower push,58:10,Walking lunge,3,12,reps,20

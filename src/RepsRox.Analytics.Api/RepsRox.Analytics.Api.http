@@ -1,0 +1,11 @@
+@api = http://localhost:5080
+
+GET {{api}}/api/overview
+
+###
+
+GET {{api}}/api/training/volume?interval=Week
+
+###
+
+GET {{api}}/api/imports

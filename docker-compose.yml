@@ -1,0 +1,16 @@
+# A local SQL Server for development. Point the API at it with:
+#   ConnectionStrings__Analytics="Server=localhost,1433;Database=RepsRoxAnalytics;User Id=sa;Password=RepsRox!Dev123;TrustServerCertificate=True"
+# The password is for this throwaway local container only.
+services:
+  sql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "RepsRox!Dev123"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqldata:/var/opt/mssql
+
+volumes:
+  sqldata:

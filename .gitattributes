@@ -1,0 +1,3 @@
+* text=auto
+# The samples carry the CRLF line ends the app writes; keep them byte for byte.
+*.csv -text

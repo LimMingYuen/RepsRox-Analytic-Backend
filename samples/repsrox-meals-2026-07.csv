@@ -1,0 +1,111 @@
+Date,Meal,Detail,Kcal,Protein g,Carbs g,Logged
+2026-07-01,Breakfast,"Oats, whey, banana",636,40,70,no
+2026-07-01,Lunch,Chicken rice,696,45,90,no
+2026-07-01,Dinner,"Salmon, potatoes, greens",824,48,60,no
+2026-07-02,Breakfast,"Oats, whey, banana",608,40,70,yes
+2026-07-02,Lunch,Chicken rice,785,45,90,no
+2026-07-02,Dinner,"Salmon, potatoes, greens",744,48,60,yes
+2026-07-03,Breakfast,"Oats, whey, banana",580,40,70,yes
+2026-07-03,Lunch,Chicken rice,780,45,90,yes
+2026-07-03,Dinner,"Salmon, potatoes, greens",817,48,60,yes
+2026-07-04,Breakfast,"Oats, whey, banana",661,40,70,yes
+2026-07-04,Lunch,Chicken rice,787,45,90,yes
+2026-07-04,Dinner,"Salmon, potatoes, greens",819,48,60,no
+2026-07-05,Breakfast,"Oats, whey, banana",583,40,70,no
+2026-07-05,Lunch,Chicken rice,759,45,90,yes
+2026-07-05,Dinner,"Salmon, potatoes, greens",822,48,60,yes
+2026-07-06,Breakfast,"Oats, whey, banana",589,40,70,yes
+2026-07-06,Lunch,Chicken rice,782,45,90,yes
+2026-07-06,Snack,Greek yoghurt + berries,263,20,25,yes
+2026-07-06,Dinner,"Salmon, potatoes, greens",832,48,60,yes
+2026-07-07,Breakfast,"Oats, whey, banana",632,40,70,yes
+2026-07-07,Lunch,Chicken rice,766,45,90,yes
+2026-07-07,Snack,Greek yoghurt + berries,215,20,25,no
+2026-07-07,Dinner,"Salmon, potatoes, greens",760,48,60,yes
+2026-07-08,Breakfast,"Oats, whey, banana",570,40,70,yes
+2026-07-08,Lunch,Chicken rice,738,45,90,yes
+2026-07-08,Snack,Greek yoghurt + berries,290,20,25,yes
+2026-07-08,Dinner,"Salmon, potatoes, greens",756,48,60,no
+2026-07-09,Breakfast,"Oats, whey, banana",612,40,70,yes
+2026-07-09,Lunch,Chicken rice,762,45,90,yes
+2026-07-09,Dinner,"Salmon, potatoes, greens",814,48,60,yes
+2026-07-10,Breakfast,"Oats, whey, banana",596,40,70,yes
+2026-07-10,Lunch,Chicken rice,797,45,90,yes
+2026-07-10,Snack,Greek yoghurt + berries,218,20,25,yes
+2026-07-10,Dinner,"Salmon, potatoes, greens",813,48,60,yes
+2026-07-11,Breakfast,"Oats, whey, banana",629,40,70,yes
+2026-07-11,Lunch,Chicken rice,726,45,90,no
+2026-07-11,Dinner,"Salmon, potatoes, greens",781,48,60,yes
+2026-07-12,Breakfast,"Oats, whey, banana",565,40,70,yes
+2026-07-12,Lunch,Chicken rice,807,45,90,yes
+2026-07-12,Dinner,"Salmon, potatoes, greens",788,48,60,yes
+2026-07-13,Breakfast,"Oats, whey, banana",628,40,70,yes
+2026-07-13,Lunch,Chicken rice,713,45,90,yes
+2026-07-13,Snack,Greek yoghurt + berries,241,20,25,no
+2026-07-13,Dinner,"Salmon, potatoes, greens",788,48,60,yes
+2026-07-14,Breakfast,"Oats, whey, banana",596,40,70,yes
+2026-07-14,Lunch,Chicken rice,740,45,90,yes
+2026-07-14,Snack,Greek yoghurt + berries,198,20,25,yes
+2026-07-14,Dinner,"Salmon, potatoes, greens",771,48,60,yes
+2026-07-15,Breakfast,"Oats, whey, banana",637,40,70,yes
+2026-07-15,Lunch,Chicken rice,765,45,90,no
+2026-07-15,Snack,Greek yoghurt + berries,193,20,25,yes
+2026-07-15,Dinner,"Salmon, potatoes, greens",733,48,60,yes
+2026-07-16,Breakfast,"Oats, whey, banana",592,40,70,no
+2026-07-16,Lunch,Chicken rice,781,45,90,yes
+2026-07-16,Dinner,"Salmon, potatoes, greens",810,48,60,no
+2026-07-17,Breakfast,"Oats, whey, banana",644,40,70,yes
+2026-07-17,Lunch,Chicken rice,691,45,90,no
+2026-07-17,Dinner,"Salmon, potatoes, greens",809,48,60,no
+2026-07-18,Breakfast,"Oats, whey, banana",613,40,70,yes
+2026-07-18,Lunch,Chicken rice,769,45,90,no
+2026-07-18,Snack,Greek yoghurt + berries,212,20,25,yes
+2026-07-18,Dinner,"Salmon, potatoes, greens",760,48,60,yes
+2026-07-19,Breakfast,"Oats, whey, banana",575,40,70,yes
+2026-07-19,Lunch,Chicken rice,750,45,90,no
+2026-07-19,Snack,Greek yoghurt + berries,288,20,25,yes
+2026-07-19,Dinner,"Salmon, potatoes, greens",745,48,60,no
+2026-07-20,Breakfast,"Oats, whey, banana",660,40,70,yes
+2026-07-20,Lunch,Chicken rice,771,45,90,yes
+2026-07-20,Snack,Greek yoghurt + berries,204,20,25,no
+2026-07-20,Dinner,"Salmon, potatoes, greens",727,48,60,yes
+2026-07-21,Breakfast,"Oats, whey, banana",586,40,70,yes
+2026-07-21,Lunch,Chicken rice,768,45,90,yes
+2026-07-21,Snack,Greek yoghurt + berries,275,20,25,yes
+2026-07-21,Dinner,"Salmon, potatoes, greens",801,48,60,yes
+2026-07-22,Breakfast,"Oats, whey, banana",608,40,70,yes
+2026-07-22,Lunch,Chicken rice,806,45,90,yes
+2026-07-22,Dinner,"Salmon, potatoes, greens",748,48,60,yes
+2026-07-23,Breakfast,"Oats, whey, banana",628,40,70,yes
+2026-07-23,Lunch,Chicken rice,797,45,90,yes
+2026-07-23,Snack,Greek yoghurt + berries,243,20,25,yes
+2026-07-23,Dinner,"Salmon, potatoes, greens",809,48,60,yes
+2026-07-24,Breakfast,"Oats, whey, banana",663,40,70,yes
+2026-07-24,Lunch,Chicken rice,800,45,90,no
+2026-07-24,Dinner,"Salmon, potatoes, greens",763,48,60,yes
+2026-07-25,Breakfast,"Oats, whey, banana",609,40,70,no
+2026-07-25,Lunch,Chicken rice,726,45,90,yes
+2026-07-25,Snack,Greek yoghurt + berries,236,20,25,no
+2026-07-25,Dinner,"Salmon, potatoes, greens",767,48,60,yes
+2026-07-26,Breakfast,"Oats, whey, banana",566,40,70,yes
+2026-07-26,Lunch,Chicken rice,758,45,90,yes
+2026-07-26,Snack,Greek yoghurt + berries,204,20,25,yes
+2026-07-26,Dinner,"Salmon, potatoes, greens",725,48,60,yes
+2026-07-27,Breakfast,"Oats, whey, banana",597,40,70,yes
+2026-07-27,Lunch,Chicken rice,713,45,90,no
+2026-07-27,Snack,Greek yoghurt + berries,264,20,25,yes
+2026-07-27,Dinner,"Salmon, potatoes, greens",723,48,60,yes
+2026-07-28,Breakfast,"Oats, whey, banana",572,40,70,yes
+2026-07-28,Lunch,Chicken rice,771,45,90,yes
+2026-07-28,Snack,Greek yoghurt + berries,302,20,25,no
+2026-07-28,Dinner,"Salmon, potatoes, greens",749,48,60,yes
+2026-07-29,Breakfast,"Oats, whey, banana",635,40,70,no
+2026-07-29,Lunch,Chicken rice,800,45,90,yes
+2026-07-29,Dinner,"Salmon, potatoes, greens",832,48,60,yes
+2026-07-30,Breakfast,"Oats, whey, banana",606,40,70,yes
+2026-07-30,Lunch,Chicken rice,723,45,90,no
+2026-07-30,Snack,Greek yoghurt + berries,284,20,25,yes
+2026-07-30,Dinner,"Salmon, potatoes, greens",801,48,60,yes
+2026-07-31,Breakfast,"Oats, whey, banana",601,40,70,yes
+2026-07-31,Lunch,Chicken rice,769,45,90,yes
+2026-07-31,Dinner,"Salmon, potatoes, greens",768,48,60,yes
