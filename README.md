@@ -1,6 +1,6 @@
 # RepsRox Analytic — Backend
 
-ASP.NET Core 8 Web API over SQL Server that takes in the monthly CSV exports from the
+ASP.NET Core 10 Web API over SQL Server that takes in the monthly CSV exports from the
 [Reps-Rox](https://github.com/LimMingYuen/Reps-Rox) Android app and serves the figures
 the [analytics dashboard](https://github.com/LimMingYuen/RepsRox-Analytic-Frontend) draws.
 
@@ -34,7 +34,7 @@ things out.
 
 ## Running locally
 
-Prerequisites: [.NET 8 SDK](https://dotnet.microsoft.com/download) and a SQL Server.
+Prerequisites: [.NET 10 SDK](https://dotnet.microsoft.com/download) and a SQL Server.
 
 **SQL Server** — either:
 
@@ -55,7 +55,8 @@ dotnet run --project src/RepsRox.Analytics.Api --launch-profile http
 ```
 
 It listens on `http://localhost:5080`, creates/migrates the database on start
-(`Database:MigrateOnStartup`), and serves Swagger at `/swagger`. CORS allows the Angular dev
+(`Database:MigrateOnStartup`), and serves the Scalar API reference at `/scalar` (OpenAPI document at
+`/openapi/v1.json`). CORS allows the Angular dev
 server (`http://localhost:4200`); change `Cors:AllowedOrigins` for other hosts.
 
 Load the samples:

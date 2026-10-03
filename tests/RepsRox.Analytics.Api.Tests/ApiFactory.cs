@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.Extensions.DependencyInjection;
 using RepsRox.Analytics.Api.Data;
 
@@ -20,7 +21,9 @@ public class ApiFactory : WebApplicationFactory<Program>
         builder.UseSetting("Database:MigrateOnStartup", "false");
         builder.ConfigureServices(services =>
         {
+            // EF Core 9+ also keeps the SQL Server setup as an options configuration.
             services.RemoveAll<DbContextOptions<AnalyticsDbContext>>();
+            services.RemoveAll<IDbContextOptionsConfiguration<AnalyticsDbContext>>();
             _connection.Open();
             services.AddDbContext<AnalyticsDbContext>(o => o.UseSqlite(_connection));
 
